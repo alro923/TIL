@@ -1,6 +1,13 @@
 ## IntelliJ
 [📝 short-cut](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html#learn-shortcuts)
 
+| 어쩌구 | 설명 |
+|----|----|
+|`Ctrl` + `Alt` + `L` | 자동 정렬 |
+| `Shift` + `F10` | 현재 클래스 Run |
+
+
+
 ## JAVA
 |짧게 | 길게 |
 |----|----|
