@@ -5,7 +5,9 @@
 |----|----|
 |`Ctrl` + `Alt` + `L` | 자동 정렬 |
 | `Shift` + `F10` | 현재 클래스 Run |
-
+| `Alt` + `Enter` | Show Context Action |
+| `Ctrl` + `B` | Go to declaration and its type |
+| `Ctrl` + `Alt` + `B` | Go to implementation |
 
 
 ## JAVA
